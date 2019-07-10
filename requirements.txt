@@ -1,0 +1,4 @@
+pycallgraph==1.0.1
+tabulate==0.8.3
+pandas==0.23.4
+fnmatch
