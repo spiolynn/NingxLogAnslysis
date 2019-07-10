@@ -154,6 +154,7 @@ class PatternStrategyMain(PatternStrategySuper):
 
 class PatternStrategyVerboseTime(PatternStrategySuper):
 
+
     '''
     匹配: verbose_time
     log_format  verbose_time '$remote_addr [$time_local] '
