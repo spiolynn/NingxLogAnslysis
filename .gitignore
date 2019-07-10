@@ -5,3 +5,6 @@ runtime/*
 !runtime/qrcode/bg.jpg
 !runtime/fonts
 *.log
+*.spec
+dist
+build
