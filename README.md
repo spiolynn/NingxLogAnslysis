@@ -56,3 +56,8 @@ windows: pipreqs ./ --encoding=utf8
 > https://www.cnblogs.com/GO-NO-1/p/7155684.html
 
 ![basic.png](basic.png)
+
+
+### 3 获得小图标
+
+> https://blog.csdn.net/mouday/article/details/82804630
